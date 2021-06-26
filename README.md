@@ -78,6 +78,7 @@ The following shows the results for Easy Ensemble Classifier:
 - High risk recall = 91%
 - Low risk recall = 94%
 
+### List of Features:
 The list of features in decending order is listed below:
 
 ![Image7](https://github.com/Nidaiq/Credit_Risk_Analysis/blob/e8cb3e364f489a869f882e76a097b9d01dbe315e/Module-17-Challenge-Resources/Image%207%20-%20Feature%20importance%20in%20decending%20order.png)
